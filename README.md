@@ -1,5 +1,5 @@
 # Log-In-Java-App
-Log-In Program in Java
+CRUD in Java
 
 Una App de Java donde vienen diferentes clases y vistas que cumplen un CRUD a 3 tablas PostgreSQL
 
